@@ -1,0 +1,12 @@
+{
+  "WebHook.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\TemplateWeb\\WebHook.Common",
+  "WebHook.Data.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\TemplateWeb\\Data\\WebHook.Data.Common",
+  "WebHook.Data.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\TemplateWeb\\Data\\WebHook.Data.Models",
+  "WebHook.EntityFrameWork": "E:\\TemplateWeb\\Data\\WebHook.Data",
+  "WebHook.Services": "E:\\TemplateWeb\\Services\\WebHook.Services.Data",
+  "WebHook.Services.Mapping, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\TemplateWeb\\Services\\WebHook.Services.Mapping",
+  "WebHook.Services.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\TemplateWeb\\Services\\WebHook.Services.Messaging",
+  "WebHook.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\TemplateWeb\\Web\\WebHook.Web",
+  "WebHook.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\TemplateWeb\\Web\\WebHook.Web.Infrastructure",
+  "WebHook.Web.ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\TemplateWeb\\Web\\WebHook.Web.ViewModels"
+}

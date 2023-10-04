@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebHook.MinimalApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebHook.WebHook.MinimalApi.Infracture.BackgroundJobBuilder.RegisterBackgroundJob(Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            RegisterBackgroundJob
+            </summary>
+            <param name="builder"></param>
+        </member>
+    </members>
+</doc>

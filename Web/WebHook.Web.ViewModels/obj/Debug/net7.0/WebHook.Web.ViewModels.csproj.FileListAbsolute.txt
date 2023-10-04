@@ -1,0 +1,5 @@
+E:\TemplateWeb\Web\WebHook.Web.ViewModels\obj\Debug\net7.0\WebHook.Web.ViewModels.csproj.AssemblyReference.cache
+E:\TemplateWeb\Web\WebHook.Web.ViewModels\obj\Debug\net7.0\WebHook.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\TemplateWeb\Web\WebHook.Web.ViewModels\obj\Debug\net7.0\WebHook.Web.ViewModels.AssemblyInfoInputs.cache
+E:\TemplateWeb\Web\WebHook.Web.ViewModels\obj\Debug\net7.0\WebHook.Web.ViewModels.AssemblyInfo.cs
+E:\TemplateWeb\Web\WebHook.Web.ViewModels\obj\Debug\net7.0\WebHook.Web.ViewModels.csproj.CoreCompileInputs.cache

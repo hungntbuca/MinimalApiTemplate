@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ap82K1xcHEZrsjIH0bM5UKUU0ucrOIZLqWCOSoUGJR8x8xKhdVc0lfUhHnBqmzxjEtrRv18yLQQYKt8NkeTDyw==",
+  "success": true,
+  "projectFilePath": "E:\\TemplateWeb\\Data\\WebHook.Data.Common\\WebHook.Data.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HUNGNT\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\HUNGNT\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "C:\\Users\\HUNGNT\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

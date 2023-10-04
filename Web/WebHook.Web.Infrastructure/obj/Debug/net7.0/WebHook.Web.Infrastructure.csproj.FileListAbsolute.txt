@@ -1,0 +1,12 @@
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\bin\Debug\net7.0\WebHook.Web.Infrastructure.deps.json
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\bin\Debug\net7.0\WebHook.Web.Infrastructure.dll
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\bin\Debug\net7.0\WebHook.Web.Infrastructure.pdb
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\obj\Debug\net7.0\WebHook.Web.Infrastructure.csproj.AssemblyReference.cache
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\obj\Debug\net7.0\WebHook.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\obj\Debug\net7.0\WebHook.Web.Infrastructure.AssemblyInfoInputs.cache
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\obj\Debug\net7.0\WebHook.Web.Infrastructure.AssemblyInfo.cs
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\obj\Debug\net7.0\WebHook.Web.Infrastructure.csproj.CoreCompileInputs.cache
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\obj\Debug\net7.0\WebHook.Web.Infrastructure.dll
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\obj\Debug\net7.0\refint\WebHook.Web.Infrastructure.dll
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\obj\Debug\net7.0\WebHook.Web.Infrastructure.pdb
+E:\TemplateWeb\Web\WebHook.Web.Infrastructure\obj\Debug\net7.0\ref\WebHook.Web.Infrastructure.dll

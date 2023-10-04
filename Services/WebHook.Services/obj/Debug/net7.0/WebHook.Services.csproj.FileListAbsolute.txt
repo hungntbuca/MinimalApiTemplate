@@ -1,0 +1,12 @@
+E:\TemplateWeb\Services\WebHook.Services\bin\Debug\net7.0\WebHook.Services.deps.json
+E:\TemplateWeb\Services\WebHook.Services\bin\Debug\net7.0\WebHook.Services.dll
+E:\TemplateWeb\Services\WebHook.Services\bin\Debug\net7.0\WebHook.Services.pdb
+E:\TemplateWeb\Services\WebHook.Services\obj\Debug\net7.0\WebHook.Services.csproj.AssemblyReference.cache
+E:\TemplateWeb\Services\WebHook.Services\obj\Debug\net7.0\WebHook.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\TemplateWeb\Services\WebHook.Services\obj\Debug\net7.0\WebHook.Services.AssemblyInfoInputs.cache
+E:\TemplateWeb\Services\WebHook.Services\obj\Debug\net7.0\WebHook.Services.AssemblyInfo.cs
+E:\TemplateWeb\Services\WebHook.Services\obj\Debug\net7.0\WebHook.Services.csproj.CoreCompileInputs.cache
+E:\TemplateWeb\Services\WebHook.Services\obj\Debug\net7.0\WebHook.Services.dll
+E:\TemplateWeb\Services\WebHook.Services\obj\Debug\net7.0\refint\WebHook.Services.dll
+E:\TemplateWeb\Services\WebHook.Services\obj\Debug\net7.0\WebHook.Services.pdb
+E:\TemplateWeb\Services\WebHook.Services\obj\Debug\net7.0\ref\WebHook.Services.dll

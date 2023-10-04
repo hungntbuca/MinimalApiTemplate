@@ -1,0 +1,8 @@
+E:\TemplateWeb\Web\WebHook.Web\obj\Debug\net7.0\WebHook.Web.csproj.AssemblyReference.cache
+E:\TemplateWeb\Web\WebHook.Web\obj\Debug\net7.0\WebHook.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\TemplateWeb\Web\WebHook.Web\obj\Debug\net7.0\WebHook.Web.AssemblyInfoInputs.cache
+E:\TemplateWeb\Web\WebHook.Web\obj\Debug\net7.0\WebHook.Web.AssemblyInfo.cs
+E:\TemplateWeb\Web\WebHook.Web\obj\Debug\net7.0\WebHook.Web.csproj.CoreCompileInputs.cache
+E:\TemplateWeb\Web\WebHook.Web\obj\Debug\net7.0\WebHook.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\TemplateWeb\Web\WebHook.Web\obj\Debug\net7.0\WebHook.Web.RazorAssemblyInfo.cache
+E:\TemplateWeb\Web\WebHook.Web\obj\Debug\net7.0\WebHook.Web.RazorAssemblyInfo.cs

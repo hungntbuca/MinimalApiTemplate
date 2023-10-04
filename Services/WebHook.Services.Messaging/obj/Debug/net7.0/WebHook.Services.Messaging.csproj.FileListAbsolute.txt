@@ -1,0 +1,12 @@
+E:\TemplateWeb\Services\WebHook.Services.Messaging\bin\Debug\net7.0\WebHook.Services.Messaging.deps.json
+E:\TemplateWeb\Services\WebHook.Services.Messaging\bin\Debug\net7.0\WebHook.Services.Messaging.dll
+E:\TemplateWeb\Services\WebHook.Services.Messaging\bin\Debug\net7.0\WebHook.Services.Messaging.pdb
+E:\TemplateWeb\Services\WebHook.Services.Messaging\obj\Debug\net7.0\WebHook.Services.Messaging.csproj.AssemblyReference.cache
+E:\TemplateWeb\Services\WebHook.Services.Messaging\obj\Debug\net7.0\WebHook.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+E:\TemplateWeb\Services\WebHook.Services.Messaging\obj\Debug\net7.0\WebHook.Services.Messaging.AssemblyInfoInputs.cache
+E:\TemplateWeb\Services\WebHook.Services.Messaging\obj\Debug\net7.0\WebHook.Services.Messaging.AssemblyInfo.cs
+E:\TemplateWeb\Services\WebHook.Services.Messaging\obj\Debug\net7.0\WebHook.Services.Messaging.csproj.CoreCompileInputs.cache
+E:\TemplateWeb\Services\WebHook.Services.Messaging\obj\Debug\net7.0\WebHook.Services.Messaging.dll
+E:\TemplateWeb\Services\WebHook.Services.Messaging\obj\Debug\net7.0\refint\WebHook.Services.Messaging.dll
+E:\TemplateWeb\Services\WebHook.Services.Messaging\obj\Debug\net7.0\WebHook.Services.Messaging.pdb
+E:\TemplateWeb\Services\WebHook.Services.Messaging\obj\Debug\net7.0\ref\WebHook.Services.Messaging.dll

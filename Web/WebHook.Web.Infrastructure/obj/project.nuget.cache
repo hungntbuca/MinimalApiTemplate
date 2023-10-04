@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dRH5AJcuATvKK04FIsuLEyQkCG7S7O6kKqnQd+lMFRnJik5pVC0HRILWQhN+U0IL5FitRC4eEcWXbGI5tc/37Q==",
+  "success": true,
+  "projectFilePath": "E:\\TemplateWeb\\Web\\WebHook.Web.Infrastructure\\WebHook.Web.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HUNGNT\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\HUNGNT\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}
